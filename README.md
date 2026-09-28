@@ -12,9 +12,7 @@ KVM/QEMU,lalu observ tools dengan plg stack dan container orchestration eks deng
 ```
 terraform-setup/
 ├── .terraform/
-├── compute.tf
-├── main.tf
-├── prep-vm.tf
+├── aws.tf
 ├── terraform.tfstate
 ├── terraform.tfstate.backup
 ├── s3.tf
