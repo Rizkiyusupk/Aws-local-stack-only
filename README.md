@@ -11,7 +11,6 @@ KVM/QEMU,lalu observ tools dengan plg stack dan container orchestration eks deng
 
 ```
 terraform-setup/
-├── .terraform/
 ├── aws.tf
 ├── terraform.tfstate
 ├── terraform.tfstate.backup
@@ -29,7 +28,6 @@ terraform-setup/
 ├── cloud-watch.tf
 ├── cloud-watch-metrics.tf
 ├── dynamodb.tf
-├── terraform.tfvars
 ```
 
 
